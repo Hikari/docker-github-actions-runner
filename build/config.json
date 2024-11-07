@@ -82,7 +82,8 @@
       "category": "node",
       "source": "apt",
       "packages": [
-        "nodejs"
+        "nodejs",
+        "npm"
       ]
     },
     {
